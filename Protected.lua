@@ -31,7 +31,7 @@ print("║    Sliqqo.#0001    ║")
 wait(0.1)
 print("╚════════════════╝")
     
-    if game.PlaceId ~= 2788229376 then game.StarterGui:SetCore("SendNotification", {
+    if game.PlaceId ~= 5602055394 then game.StarterGui:SetCore("SendNotification", {
     Title = "dex.tk";
     Text = "Game: Not Supported";
     Duration = 15;
